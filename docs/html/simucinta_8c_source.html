@@ -191,7 +191,7 @@ $(function(){initNavTree('simucinta_8c_source.html','',''); });
 <div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>            simu-&gt;boxType[0] = payload[1];    <span class="comment">// tipo de caja en salida 0</span></div>
 <div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>            simu-&gt;boxType[1] = payload[2];    <span class="comment">// tipo de caja en salida 1</span></div>
 <div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>            simu-&gt;boxType[2] = payload[3];    <span class="comment">// tipo de caja en salida 2</span></div>
-<div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span>            simu-&gt;running    = 1;             <span class="comment">// la cinta arranc�</span></div>
+<div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span>            simu-&gt;running    = 1;             <span class="comment">// la cinta arranco</span></div>
 <div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span>        <span class="keywordflow">break</span>;</div>
 <div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span>        <span class="keywordflow">case</span> CMD_STOP:       <span class="comment">// 0x51 ACK ? running = 0</span></div>
 <div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span>        </div>
@@ -223,7 +223,7 @@ $(function(){initNavTree('simucinta_8c_source.html','',''); });
 <div class="line"><a id="l00112" name="l00112"></a><span class="lineno"><a class="line" href="simucinta_8h.html#a6daeb00496414f236db974c7619bb4bc">  112</a></span><span class="keywordtype">void</span> SimuCinta_Process(<a class="code hl_struct" href="struct_simu_cinta__t.html">SimuCinta_t</a> *simu) {</div>
 <div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>    simu-&gt;aliveTimer--;</div>
 <div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>    <span class="keywordflow">if</span> (simu-&gt;aliveTimer == 0) {</div>
-<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>        simu-&gt;aliveTimer = 250;  <span class="comment">// 250 � 2ms = 500ms</span></div>
+<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>        simu-&gt;aliveTimer = 250;  <span class="comment">// 250 * 2ms = 500ms</span></div>
 <div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>        SimuCinta_SendAlive(simu);</div>
 <div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>    }</div>
 <div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>}</div>

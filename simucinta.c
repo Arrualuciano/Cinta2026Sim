@@ -82,7 +82,7 @@ void SimuCinta_OnCmd(SimuCinta_t *simu, uint8_t cmdId, uint8_t *payload, uint8_t
 			simu->boxType[0] = payload[1];    // tipo de caja en salida 0
 			simu->boxType[1] = payload[2];    // tipo de caja en salida 1
 			simu->boxType[2] = payload[3];    // tipo de caja en salida 2
-			simu->running    = 1;             // la cinta arranc�
+			simu->running    = 1;             // la cinta arranco
 		break;
 		case CMD_STOP:       // 0x51 ACK ? running = 0
 		
@@ -112,7 +112,7 @@ void SimuCinta_OnCmd(SimuCinta_t *simu, uint8_t cmdId, uint8_t *payload, uint8_t
 void SimuCinta_Process(SimuCinta_t *simu) {
 	simu->aliveTimer--;
 	if (simu->aliveTimer == 0) {
-		simu->aliveTimer = 250;  // 250 � 2ms = 500ms
+		simu->aliveTimer = 250;  // 250 * 2ms = 500ms
 		SimuCinta_SendAlive(simu);
 	}
 }

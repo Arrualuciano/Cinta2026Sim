@@ -132,14 +132,14 @@ Functions</h2></td></tr>
 <a name="details" id="details"></a><h2 id="header-details" class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Clasificador de cajas para cinta transportadora. </p>
 <p>Mantiene una lista ordenada de cajas en transito en la cinta. Cada caja lleva un campo <code class="param">stage</code> que indica el proximo sensor que se espera la detecte, lo que permite razonar sobre cada caja de forma independiente y evitar desincronizaciones tipicas de esquemas con multiples colas FIFO paralelas.</p>
-<p>Flujo de uso: </p><div class="fragment"><div class="line"><span class="comment">// Al iniciar (o tras RESET):</span></div>
-<div class="line"><a class="code hl_function" href="_classifier_8c.html#a3093a58c1669eec3c79c5d89b01876e8">Classifier_Init</a>(&amp;clas, boxTypes, onTrigger);</div>
+<p>Flujo de uso: </p><div class="fragment"><div class="line">          <span class="comment">// Al iniciar (o tras RESET):</span></div>
+<div class="line">          <a class="code hl_function" href="_classifier_8c.html#a3093a58c1669eec3c79c5d89b01876e8">Classifier_Init</a>(&amp;clas, boxTypes, onTrigger);</div>
 <div class="line"> </div>
-<div class="line"><span class="comment">// Cuando el simulador mide una nueva caja:</span></div>
-<div class="line"><a class="code hl_function" href="_classifier_8c.html#a6bc38faab18ac29b750ae7607058a19c">Classifier_NewBox</a>(&amp;clas, tipo);</div>
-<div class="line"> </div>
-<div class="line"><span class="comment">// Cuando un sensor IR detecta la entrada de una caja:</span></div>
-<div class="line"><a class="code hl_function" href="_classifier_8c.html#a10fcc2402873a56ee80548c3b1063473">Classifier_OnSensor</a>(&amp;clas, numSalida);</div>
+<div class="line">          <span class="comment">// Cuando el simulador mide una nueva caja:</span></div>
+<div class="line">          <a class="code hl_function" href="_classifier_8c.html#a6bc38faab18ac29b750ae7607058a19c">Classifier_NewBox</a>(&amp;clas, tipo);</div>
+<div class="line">|</div>
+<div class="line">          <span class="comment">// Cuando un sensor IR detecta la entrada de una caja:</span></div>
+<div class="line">          <a class="code hl_function" href="_classifier_8c.html#a10fcc2402873a56ee80548c3b1063473">Classifier_OnSensor</a>(&amp;clas, numSalida);</div>
 <div class="ttc" id="a_classifier_8c_html_a10fcc2402873a56ee80548c3b1063473"><div class="ttname"><a href="_classifier_8c.html#a10fcc2402873a56ee80548c3b1063473">Classifier_OnSensor</a></div><div class="ttdeci">void Classifier_OnSensor(classifier_t *clas, uint8_t outNum)</div><div class="ttdoc">Notifica al clasificador que el sensor de la salida outNum detecto una caja.</div><div class="ttdef"><b>Definition</b> <a href="_classifier_8c_source.html#l00064">Classifier.c:64</a></div></div>
 <div class="ttc" id="a_classifier_8c_html_a3093a58c1669eec3c79c5d89b01876e8"><div class="ttname"><a href="_classifier_8c.html#a3093a58c1669eec3c79c5d89b01876e8">Classifier_Init</a></div><div class="ttdeci">void Classifier_Init(classifier_t *clas, uint8_t *boxType, classifier_trigger_cb onTrigger)</div><div class="ttdoc">Inicializa el clasificador con las asignaciones de salida.</div><div class="ttdef"><b>Definition</b> <a href="_classifier_8c_source.html#l00043">Classifier.c:43</a></div></div>
 <div class="ttc" id="a_classifier_8c_html_a6bc38faab18ac29b750ae7607058a19c"><div class="ttname"><a href="_classifier_8c.html#a6bc38faab18ac29b750ae7607058a19c">Classifier_NewBox</a></div><div class="ttdeci">void Classifier_NewBox(classifier_t *clas, uint8_t type)</div><div class="ttdoc">Registra una nueva caja medida en la estacion de inicio.</div><div class="ttdef"><b>Definition</b> <a href="_classifier_8c_source.html#l00056">Classifier.c:56</a></div></div>

@@ -15,7 +15,7 @@
  *
  *          // Cuando el simulador mide una nueva caja:
  *          Classifier_NewBox(&clas, tipo);
- *
+ *|
  *          // Cuando un sensor IR detecta la entrada de una caja:
  *          Classifier_OnSensor(&clas, numSalida);
  *          @endcode
