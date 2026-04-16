@@ -1,0 +1,5 @@
+<map id="SimuCinta_Stop" name="SimuCinta_Stop">
+<area shape="rect" id="Node000001" title="Envia CMD_STOP (0x51) para pausar la cinta." alt="" coords="5,5,122,32"/>
+<area shape="rect" id="Node000002" href="$_comm_8c.html#ae71d12e317420e00d9c2ce5f67ecf640" title="Encola una trama UNER en el buffer de transmision." alt="" coords="170,5,267,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,16,157,18,151,19,122,21"/>
+</map>

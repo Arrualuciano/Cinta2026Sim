@@ -1,0 +1,12 @@
+<map id="Comm.c" name="Comm.c">
+<area shape="rect" id="Node000001" title="Implementacion del modulo de comunicacion serie con protocolo UNER." alt="" coords="51,5,122,32"/>
+<area shape="rect" id="Node000002" href="$_comm_8h.html" title="Modulo de comunicacion serie con protocolo UNER." alt="" coords="5,80,77,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,35,59,68,55,65,79,30"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="101,80,165,107"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="95,30,119,67,114,67,94,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="9,229,73,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="36,110,32,141,30,181,36,214,31,214,25,182,27,140,38,104"/>
+<area shape="rect" id="Node000004" href="$_ring_buf_8h.html" title="Buffer circular (ring buffer) de proposito general." alt="" coords="40,155,119,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="48,105,68,140,63,141,47,110"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="75,180,57,217,53,214,71,183"/>
+</map>

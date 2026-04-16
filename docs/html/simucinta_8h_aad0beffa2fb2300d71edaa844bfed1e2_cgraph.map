@@ -1,0 +1,5 @@
+<map id="SimuCinta_SendAlive" name="SimuCinta_SendAlive">
+<area shape="rect" id="Node000001" title="Envia un CMD_ALIVE (0xF0) al simulador." alt="" coords="5,5,154,32"/>
+<area shape="rect" id="Node000002" href="$_comm_8c.html#ae71d12e317420e00d9c2ce5f67ecf640" title="Encola una trama UNER en el buffer de transmision." alt="" coords="202,5,299,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,16,189,19,183,19,154,21"/>
+</map>

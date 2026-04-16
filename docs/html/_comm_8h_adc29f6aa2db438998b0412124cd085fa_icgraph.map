@@ -1,0 +1,5 @@
+<map id="Comm_PutRxByte" name="Comm_PutRxByte">
+<area shape="rect" id="Node000001" title="Agrega un byte recibido por la ISR al buffer circular de RX." alt="" coords="98,5,229,32"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a09ce999e15ad60b8a3f07d08af1946f9" title="ISR de recepcion UART: transfiere el byte recibido al buffer circular." alt="" coords="5,5,50,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,20,50,21,50,16,85,18"/>
+</map>

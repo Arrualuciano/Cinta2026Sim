@@ -1,0 +1,7 @@
+<map id="simucinta.h" name="simucinta.h">
+<area shape="rect" id="Node000001" title="Capa de abstraccion para el simulador de cinta transportadora." alt="" coords="41,5,129,32"/>
+<area shape="rect" id="Node000002" href="$main_8c.html" title="Aplicacion principal del clasificador de cajas en cinta transportadora." alt="" coords="5,80,66,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,44,46,81,42,78,65,46"/>
+<area shape="rect" id="Node000003" href="$simucinta_8c_source.html" title=" " alt="" coords="90,80,178,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="103,43,128,80,123,80,101,47"/>
+</map>

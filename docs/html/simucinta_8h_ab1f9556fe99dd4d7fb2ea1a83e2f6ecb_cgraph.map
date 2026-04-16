@@ -1,0 +1,5 @@
+<map id="SimuCinta_SetArm" name="SimuCinta_SetArm">
+<area shape="rect" id="Node000001" title="Envia CMD_SET_ARM (0x52) para mover uno o varios brazos." alt="" coords="5,5,139,32"/>
+<area shape="rect" id="Node000002" href="$_comm_8c.html#ae71d12e317420e00d9c2ce5f67ecf640" title="Encola una trama UNER en el buffer de transmision." alt="" coords="187,5,284,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,16,174,18,169,19,139,21"/>
+</map>

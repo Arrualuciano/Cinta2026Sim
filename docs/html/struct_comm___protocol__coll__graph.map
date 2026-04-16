@@ -1,0 +1,5 @@
+<map id="Comm_Protocol" name="Comm_Protocol">
+<area shape="rect" id="Node000001" title="Contexto completo de una instancia del protocolo UNER." alt="" coords="5,125,121,152"/>
+<area shape="rect" id="Node000002" href="$struct_ring_buf__t.html" title="Descriptor de un buffer circular." alt="" coords="23,5,103,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,47,66,125,60,124,61,49"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Actuator_Process" name="Actuator_Process">
+<area shape="rect" id="Node000001" title="Ejecuta un paso de la FSM del actuador." alt="" coords="103,5,228,32"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Inicializa el sistema y ejecuta el super&#45;loop." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,20,55,21,55,16,90,18"/>
+</map>

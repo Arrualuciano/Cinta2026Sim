@@ -1,0 +1,11 @@
+<map id="simucinta.h" name="simucinta.h">
+<area shape="rect" id="Node000001" title="Capa de abstraccion para el simulador de cinta transportadora." alt="" coords="5,5,94,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="32,229,96,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,30,41,80,41,116,45,153,59,214,53,215,40,154,36,117,36,80,46,35"/>
+<area shape="rect" id="Node000003" href="$_comm_8h.html" title="Modulo de comunicacion serie con protocolo UNER." alt="" coords="51,80,122,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="56,30,76,66,71,67,56,35"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="87,107,71,214,66,213,82,108"/>
+<area shape="rect" id="Node000004" href="$_ring_buf_8h.html" title="Buffer circular (ring buffer) de proposito general." alt="" coords="102,155,181,181"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="97,105,125,142,120,143,96,110"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="131,181,90,221,87,217,126,183"/>
+</map>

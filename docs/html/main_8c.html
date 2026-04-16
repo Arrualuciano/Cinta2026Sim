@@ -103,6 +103,40 @@ $(function(){initNavTree('main_8c.html','',''); });
 <code>#include &quot;<a class="el" href="simucinta_8h_source.html">simucinta.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="_actuator_8h_source.html">Actuator.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="_classifier_8h_source.html">Classifier.h</a>&quot;</code><br />
+</div><div class="textblock"><div class="dynheader">
+Include dependency graph for main.c:</div>
+<div class="dyncontent">
+<div class="center"><img src="main_8c__incl.png" border="0" usemap="#amain_8c" loading="lazy" alt=""/></div>
+<map name="amain_8c" id="amain_8c">
+<area shape="rect" title="Aplicacion principal del clasificador de cajas en cinta transportadora." alt="" coords="355,5,416,32"/>
+<area shape="rect" title=" " alt="" coords="5,80,70,107"/>
+<area shape="poly" title=" " alt="" coords="353,27,240,49,86,82,83,77,239,44,357,24"/>
+<area shape="rect" title=" " alt="" coords="94,80,195,107"/>
+<area shape="poly" title=" " alt="" coords="353,31,202,78,199,73,357,27"/>
+<area shape="rect" title=" " alt="" coords="219,80,323,107"/>
+<area shape="poly" title=" " alt="" coords="363,34,305,73,302,69,368,31"/>
+<area shape="rect" href="_h_c_s_r04_8h.html" title="Driver para sensor ultrasonico HC&#45;SR04." alt="" coords="256,155,342,181"/>
+<area shape="poly" title=" " alt="" coords="380,31,337,108,316,143,312,139,333,105,376,34"/>
+<area shape="rect" href="_comm_8h.html" title="Modulo de comunicacion serie con protocolo UNER." alt="" coords="376,155,448,181"/>
+<area shape="poly" title=" " alt="" coords="389,30,410,140,405,138,386,35"/>
+<area shape="rect" href="simucinta_8h.html" title="Capa de abstraccion para el simulador de cinta transportadora." alt="" coords="448,80,536,107"/>
+<area shape="poly" title=" " alt="" coords="404,30,464,71,458,71,404,35"/>
+<area shape="rect" href="_actuator_8h.html" title="Modulo de control de actuadores (pistones/brazos) de la cinta." alt="" coords="532,155,613,181"/>
+<area shape="poly" title=" " alt="" coords="415,20,448,26,484,37,519,54,550,78,567,108,573,141,569,138,562,110,546,82,517,58,482,42,446,31,416,26"/>
+<area shape="rect" href="_classifier_8h.html" title="Clasificador de cajas para cinta transportadora." alt="" coords="600,229,688,256"/>
+<area shape="poly" title=" " alt="" coords="416,21,493,38,536,54,576,78,596,95,609,111,628,154,638,184,643,216,639,213,633,186,623,156,604,114,592,98,573,82,534,59,492,43,416,26"/>
+<area shape="rect" title=" " alt="" coords="423,304,487,331"/>
+<area shape="poly" title=" " alt="" coords="306,179,327,216,357,254,385,276,416,297,411,296,382,281,353,258,322,219,303,184"/>
+<area shape="poly" title=" " alt="" coords="399,180,384,198,370,216,363,236,367,255,385,278,411,298,406,297,382,282,362,257,358,235,366,214,380,195,395,183"/>
+<area shape="rect" href="_ring_buf_8h.html" title="Buffer circular (ring buffer) de proposito general." alt="" coords="376,229,456,256"/>
+<area shape="poly" title=" " alt="" coords="414,180,417,215,412,212,411,184"/>
+<area shape="poly" title=" " alt="" coords="424,254,443,291,439,289,422,259"/>
+<area shape="poly" title=" " alt="" coords="493,106,471,256,463,291,459,287,466,256,488,109"/>
+<area shape="poly" title=" " alt="" coords="481,106,438,147,435,142,476,109"/>
+<area shape="poly" title=" " alt="" coords="567,180,514,258,480,295,477,291,510,254,562,183"/>
+<area shape="poly" title=" " alt="" coords="614,256,502,301,501,296,609,257"/>
+</map>
+</div>
 </div>
 <p><a href="main_8c_source.html">Go to the source code of this file.</a></p>
 <table class="memberdecls">
@@ -199,6 +233,16 @@ Functions</h2></td></tr>
 <p>Llama a <a class="el" href="_comm_8c.html#adc29f6aa2db438998b0412124cd085fa" title="Agrega un byte recibido por la ISR al buffer circular de RX.">Comm_PutRxByte()</a> que es la unica operacion segura desde ISR sobre la estructura <a class="el" href="struct_comm___protocol.html" title="Contexto completo de una instancia del protocolo UNER.">Comm_Protocol</a> (escribe en el ring buffer de RX). </p>
 
 <p class="definition">Definition at line <a class="el" href="main_8c_source.html#l00124">124</a> of file <a class="el" href="main_8c_source.html">main.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="main_8c_a09ce999e15ad60b8a3f07d08af1946f9_cgraph.png" border="0" usemap="#amain_8c_a09ce999e15ad60b8a3f07d08af1946f9_cgraph" loading="lazy" alt=""/></div>
+<map name="amain_8c_a09ce999e15ad60b8a3f07d08af1946f9_cgraph" id="amain_8c_a09ce999e15ad60b8a3f07d08af1946f9_cgraph">
+<area shape="rect" title="ISR de recepcion UART: transfiere el byte recibido al buffer circular." alt="" coords="5,5,50,32"/>
+<area shape="rect" href="_comm_8c.html#adc29f6aa2db438998b0412124cd085fa" title="Agrega un byte recibido por la ISR al buffer circular de RX." alt="" coords="98,5,229,32"/>
+<area shape="poly" title=" " alt="" coords="50,16,85,18,80,20,50,21"/>
+</map>
+</div>
 
 </div>
 </div>
@@ -229,6 +273,26 @@ Functions</h2></td></tr>
 <dl class="section return"><dt>Returns</dt><dd>No retorna (loop infinito). </dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="main_8c_source.html#l00343">343</a> of file <a class="el" href="main_8c_source.html">main.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="main_8c_a840291bc02cba5474a4cb46a9b9566fe_cgraph.png" border="0" usemap="#amain_8c_a840291bc02cba5474a4cb46a9b9566fe_cgraph" loading="lazy" alt=""/></div>
+<map name="amain_8c_a840291bc02cba5474a4cb46a9b9566fe_cgraph" id="amain_8c_a840291bc02cba5474a4cb46a9b9566fe_cgraph">
+<area shape="rect" title="Inicializa el sistema y ejecuta el super&#45;loop." alt="" coords="5,107,55,133"/>
+<area shape="rect" href="_actuator_8c.html#a8704bcbcdf61ac725500bfbbf9db632c" title="Inicializa un actuador." alt="" coords="118,5,213,32"/>
+<area shape="poly" title=" " alt="" coords="39,105,65,74,101,42,112,37,108,41,104,46,69,78,43,108"/>
+<area shape="rect" href="_actuator_8c.html#a0b8b1cc85ac7f97e5b64df441c77f4ba" title="Ejecuta un paso de la FSM del actuador." alt="" coords="103,56,228,83"/>
+<area shape="poly" title=" " alt="" coords="54,109,115,86,112,91,57,113"/>
+<area shape="rect" href="_classifier_8c.html#a3093a58c1669eec3c79c5d89b01876e8" title="Inicializa el clasificador con las asignaciones de salida." alt="" coords="115,107,216,133"/>
+<area shape="poly" title=" " alt="" coords="54,117,101,118,97,122,56,123"/>
+<area shape="rect" href="_comm_8c.html#a6cfe672dc0c2ab687ef544a79edf456e" title="Inicializa el modulo de comunicacion y el hardware UART." alt="" coords="123,157,208,184"/>
+<area shape="poly" title=" " alt="" coords="55,126,115,150,111,153,55,132"/>
+<area shape="rect" href="_comm_8c.html#af20278a74728fea0f1f369ef36e0880b" title="Procesa el modulo de comunicacion: envio y recepcion." alt="" coords="108,208,223,235"/>
+<area shape="poly" title=" " alt="" coords="42,131,69,162,104,194,113,201,108,201,101,198,65,166,40,136"/>
+<area shape="rect" href="_comm_8c.html#ab7be665dc1d0fbffa21b750006b48b74" title="Configura el periferico UART0 del ATmega." alt="" coords="276,157,397,184"/>
+<area shape="poly" title=" " alt="" coords="208,168,263,170,258,171,209,173"/>
+</map>
+</div>
 
 </div>
 </div>

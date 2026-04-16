@@ -1,0 +1,5 @@
+<map id="SimuCinta_Reset" name="SimuCinta_Reset">
+<area shape="rect" id="Node000001" title="Envia CMD_RESET (0x53) para reiniciar el simulador." alt="" coords="5,5,130,32"/>
+<area shape="rect" id="Node000002" href="$_comm_8c.html#ae71d12e317420e00d9c2ce5f67ecf640" title="Encola una trama UNER en el buffer de transmision." alt="" coords="178,5,275,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,16,165,18,160,19,130,21"/>
+</map>

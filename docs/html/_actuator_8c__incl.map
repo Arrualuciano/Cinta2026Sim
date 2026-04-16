@@ -1,0 +1,9 @@
+<map id="Actuator.c" name="Actuator.c">
+<area shape="rect" id="Node000001" title="Implementacion del modulo de control de actuadores (FSM)." alt="" coords="48,5,130,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,74,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,35,59,68,54,66,81,30"/>
+<area shape="rect" id="Node000003" href="$_actuator_8h.html" title="Modulo de control de actuadores (pistones/brazos) de la cinta." alt="" coords="98,80,179,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="98,30,124,67,118,67,97,35"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="106,155,170,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="140,105,141,140,136,138,136,109"/>
+</map>

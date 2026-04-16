@@ -1,0 +1,5 @@
+<map id="SimuCinta_SetVelocity" name="SimuCinta_SetVelocity">
+<area shape="rect" id="Node000001" title="Envia CMD_SET_VELOCITY (0x54) para cambiar la velocidad de la cinta." alt="" coords="5,5,161,32"/>
+<area shape="rect" id="Node000002" href="$_comm_8c.html#ae71d12e317420e00d9c2ce5f67ecf640" title="Encola una trama UNER en el buffer de transmision." alt="" coords="209,5,306,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,16,196,19,190,19,161,21"/>
+</map>

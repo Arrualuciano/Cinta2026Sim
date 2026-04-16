@@ -1,0 +1,7 @@
+<map id="Actuator.h" name="Actuator.h">
+<area shape="rect" id="Node000001" title="Modulo de control de actuadores (pistones/brazos) de la cinta." alt="" coords="52,5,133,32"/>
+<area shape="rect" id="Node000002" href="$_actuator_8c.html" title="Implementacion del modulo de control de actuadores (FSM)." alt="" coords="5,80,87,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,44,56,81,52,78,74,46"/>
+<area shape="rect" id="Node000003" href="$main_8c.html" title="Aplicacion principal del clasificador de cajas en cinta transportadora." alt="" coords="110,80,171,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,43,135,80,130,79,108,47"/>
+</map>

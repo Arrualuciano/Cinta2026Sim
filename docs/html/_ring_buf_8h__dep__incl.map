@@ -1,0 +1,14 @@
+<map id="RingBuf.h" name="RingBuf.h">
+<area shape="rect" id="Node000001" title="Buffer circular (ring buffer) de proposito general." alt="" coords="75,5,154,32"/>
+<area shape="rect" id="Node000002" href="$_comm_8h.html" title="Modulo de comunicacion serie con protocolo UNER." alt="" coords="79,80,150,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,45,117,80,112,79,113,50"/>
+<area shape="rect" id="Node000003" href="$_comm_8c.html" title="Implementacion del modulo de comunicacion serie con protocolo UNER." alt="" coords="5,155,77,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,120,56,156,52,153,92,116"/>
+<area shape="rect" id="Node000004" href="$main_8c.html" title="Aplicacion principal del clasificador de cajas en cinta transportadora." alt="" coords="84,229,144,256"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="117,121,117,229,112,228,112,123"/>
+<area shape="rect" id="Node000005" href="$simucinta_8h.html" title="Capa de abstraccion para el simulador de cinta transportadora." alt="" coords="152,155,240,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="140,115,184,154,179,155,139,120"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="173,191,130,231,127,227,168,193"/>
+<area shape="rect" id="Node000006" href="$simucinta_8c_source.html" title=" " alt="" coords="169,229,257,256"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="204,195,212,230,208,228,201,199"/>
+</map>

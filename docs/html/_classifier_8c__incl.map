@@ -1,0 +1,8 @@
+<map id="Classifier.c" name="Classifier.c">
+<area shape="rect" id="Node000001" title="Implementacion del clasificador de cajas para cinta transportadora." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="17,155,81,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,30,37,80,37,111,43,140,38,140,32,111,32,80,44,35"/>
+<area shape="rect" id="Node000003" href="$_classifier_8h.html" title="Clasificador de cajas para cinta transportadora." alt="" coords="47,80,134,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="57,30,78,66,73,67,56,35"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="85,106,66,143,61,140,81,109"/>
+</map>

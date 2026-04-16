@@ -97,6 +97,36 @@ $(function(){initNavTree('_comm_8h.html','',''); });
 <a href="#details">More...</a></p>
 <div class="textblock"><code>#include &lt;stdint.h&gt;</code><br />
 <code>#include &quot;<a class="el" href="_ring_buf_8h_source.html">RingBuf.h</a>&quot;</code><br />
+</div><div class="textblock"><div class="dynheader">
+Include dependency graph for Comm.h:</div>
+<div class="dyncontent">
+<div class="center"><img src="_comm_8h__incl.png" border="0" usemap="#a_comm_8h" loading="lazy" alt=""/></div>
+<map name="a_comm_8h" id="a_comm_8h">
+<area shape="rect" title="Modulo de comunicacion serie con protocolo UNER." alt="" coords="5,5,77,32"/>
+<area shape="rect" title=" " alt="" coords="9,155,73,181"/>
+<area shape="poly" title=" " alt="" coords="36,35,32,66,30,106,36,139,31,140,25,107,27,65,38,30"/>
+<area shape="rect" href="_ring_buf_8h.html" title="Buffer circular (ring buffer) de proposito general." alt="" coords="40,80,119,107"/>
+<area shape="poly" title=" " alt="" coords="48,30,68,66,63,67,47,35"/>
+<area shape="poly" title=" " alt="" coords="75,106,57,142,53,139,71,109"/>
+</map>
+</div>
+</div><div class="textblock"><div class="dynheader">
+This graph shows which files directly or indirectly include this file:</div>
+<div class="dyncontent">
+<div class="center"><img src="_comm_8h__dep__incl.png" border="0" usemap="#a_comm_8hdep" loading="lazy" alt=""/></div>
+<map name="a_comm_8hdep" id="a_comm_8hdep">
+<area shape="rect" title="Modulo de comunicacion serie con protocolo UNER." alt="" coords="79,5,150,32"/>
+<area shape="rect" href="_comm_8c.html" title="Implementacion del modulo de comunicacion serie con protocolo UNER." alt="" coords="5,80,77,107"/>
+<area shape="poly" title=" " alt="" coords="89,46,56,81,52,78,92,41"/>
+<area shape="rect" href="main_8c.html" title="Aplicacion principal del clasificador de cajas en cinta transportadora." alt="" coords="84,155,144,181"/>
+<area shape="poly" title=" " alt="" coords="117,46,117,155,112,154,112,49"/>
+<area shape="rect" href="simucinta_8h.html" title="Capa de abstraccion para el simulador de cinta transportadora." alt="" coords="152,80,240,107"/>
+<area shape="poly" title=" " alt="" coords="140,40,184,79,179,80,139,45"/>
+<area shape="poly" title=" " alt="" coords="173,116,130,156,127,152,168,118"/>
+<area shape="rect" href="simucinta_8c_source.html" title=" " alt="" coords="169,155,257,181"/>
+<area shape="poly" title=" " alt="" coords="204,120,212,155,208,153,201,124"/>
+</map>
+</div>
 </div>
 <p><a href="_comm_8h_source.html">Go to the source code of this file.</a></p>
 <table class="memberdecls">
@@ -213,6 +243,26 @@ Functions</h2></td></tr>
 </dl>
 
 <p class="definition">Definition at line <a class="el" href="_comm_8c_source.html#l00075">75</a> of file <a class="el" href="_comm_8c_source.html">Comm.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="_comm_8h_a6cfe672dc0c2ab687ef544a79edf456e_cgraph.png" border="0" usemap="#a_comm_8h_a6cfe672dc0c2ab687ef544a79edf456e_cgraph" loading="lazy" alt=""/></div>
+<map name="a_comm_8h_a6cfe672dc0c2ab687ef544a79edf456e_cgraph" id="a_comm_8h_a6cfe672dc0c2ab687ef544a79edf456e_cgraph">
+<area shape="rect" title="Inicializa el modulo de comunicacion y el hardware UART." alt="" coords="5,5,91,32"/>
+<area shape="rect" href="_comm_8c.html#ab7be665dc1d0fbffa21b750006b48b74" title="Configura el periferico UART0 del ATmega." alt="" coords="139,5,260,32"/>
+<area shape="poly" title=" " alt="" coords="91,16,126,18,120,19,91,21"/>
+</map>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="_comm_8h_a6cfe672dc0c2ab687ef544a79edf456e_icgraph.png" border="0" usemap="#a_comm_8h_a6cfe672dc0c2ab687ef544a79edf456e_icgraph" loading="lazy" alt=""/></div>
+<map name="a_comm_8h_a6cfe672dc0c2ab687ef544a79edf456e_icgraph" id="a_comm_8h_a6cfe672dc0c2ab687ef544a79edf456e_icgraph">
+<area shape="rect" title="Inicializa el modulo de comunicacion y el hardware UART." alt="" coords="103,5,188,32"/>
+<area shape="rect" href="main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Inicializa el sistema y ejecuta el super&#45;loop." alt="" coords="5,5,55,32"/>
+<area shape="poly" title=" " alt="" coords="84,19,55,21,55,16,89,18"/>
+</map>
+</div>
 
 </div>
 </div>
@@ -235,6 +285,18 @@ Functions</h2></td></tr>
 <p>115200 baud, 8N1, con bit U2X activado. Habilita interrupcion de recepcion (RXCIE) para alimentar el buffer RX desde la ISR. </p>
 
 <p class="definition">Definition at line <a class="el" href="_comm_8c_source.html#l00068">68</a> of file <a class="el" href="_comm_8c_source.html">Comm.c</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="_comm_8h_ab7be665dc1d0fbffa21b750006b48b74_icgraph.png" border="0" usemap="#a_comm_8h_ab7be665dc1d0fbffa21b750006b48b74_icgraph" loading="lazy" alt=""/></div>
+<map name="a_comm_8h_ab7be665dc1d0fbffa21b750006b48b74_icgraph" id="a_comm_8h_ab7be665dc1d0fbffa21b750006b48b74_icgraph">
+<area shape="rect" title="Configura el periferico UART0 del ATmega." alt="" coords="236,5,357,32"/>
+<area shape="rect" href="_comm_8c.html#a6cfe672dc0c2ab687ef544a79edf456e" title="Inicializa el modulo de comunicacion y el hardware UART." alt="" coords="103,5,188,32"/>
+<area shape="poly" title=" " alt="" coords="218,19,189,21,188,16,223,19"/>
+<area shape="rect" href="main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Inicializa el sistema y ejecuta el super&#45;loop." alt="" coords="5,5,55,32"/>
+<area shape="poly" title=" " alt="" coords="84,19,55,21,55,16,89,18"/>
+</map>
+</div>
 
 </div>
 </div>
@@ -266,6 +328,16 @@ Functions</h2></td></tr>
 </dl>
 
 <p class="definition">Definition at line <a class="el" href="_comm_8c_source.html#l00134">134</a> of file <a class="el" href="_comm_8c_source.html">Comm.c</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="_comm_8h_af20278a74728fea0f1f369ef36e0880b_icgraph.png" border="0" usemap="#a_comm_8h_af20278a74728fea0f1f369ef36e0880b_icgraph" loading="lazy" alt=""/></div>
+<map name="a_comm_8h_af20278a74728fea0f1f369ef36e0880b_icgraph" id="a_comm_8h_af20278a74728fea0f1f369ef36e0880b_icgraph">
+<area shape="rect" title="Procesa el modulo de comunicacion: envio y recepcion." alt="" coords="103,5,218,32"/>
+<area shape="rect" href="main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Inicializa el sistema y ejecuta el super&#45;loop." alt="" coords="5,5,55,32"/>
+<area shape="poly" title=" " alt="" coords="85,19,55,21,55,16,90,18"/>
+</map>
+</div>
 
 </div>
 </div>
@@ -299,6 +371,16 @@ Functions</h2></td></tr>
 </dl>
 
 <p class="definition">Definition at line <a class="el" href="_comm_8c_source.html#l00099">99</a> of file <a class="el" href="_comm_8c_source.html">Comm.c</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="_comm_8h_adc29f6aa2db438998b0412124cd085fa_icgraph.png" border="0" usemap="#a_comm_8h_adc29f6aa2db438998b0412124cd085fa_icgraph" loading="lazy" alt=""/></div>
+<map name="a_comm_8h_adc29f6aa2db438998b0412124cd085fa_icgraph" id="a_comm_8h_adc29f6aa2db438998b0412124cd085fa_icgraph">
+<area shape="rect" title="Agrega un byte recibido por la ISR al buffer circular de RX." alt="" coords="98,5,229,32"/>
+<area shape="rect" href="main_8c.html#a09ce999e15ad60b8a3f07d08af1946f9" title="ISR de recepcion UART: transfiere el byte recibido al buffer circular." alt="" coords="5,5,50,32"/>
+<area shape="poly" title=" " alt="" coords="80,20,50,21,50,16,85,18"/>
+</map>
+</div>
 
 </div>
 </div>
@@ -344,6 +426,26 @@ Functions</h2></td></tr>
 </dl>
 
 <p class="definition">Definition at line <a class="el" href="_comm_8c_source.html#l00104">104</a> of file <a class="el" href="_comm_8c_source.html">Comm.c</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="_comm_8h_a77ee9dda10ee88fe47259637a39bd400_icgraph.png" border="0" usemap="#a_comm_8h_a77ee9dda10ee88fe47259637a39bd400_icgraph" loading="lazy" alt=""/></div>
+<map name="a_comm_8h_a77ee9dda10ee88fe47259637a39bd400_icgraph" id="a_comm_8h_a77ee9dda10ee88fe47259637a39bd400_icgraph">
+<area shape="rect" title="Encola una trama UNER en el buffer de transmision." alt="" coords="209,132,306,159"/>
+<area shape="rect" href="simucinta_8c.html#ae57017b5474a9134310829e770c1cf8e" title="Envia CMD_RESET (0x53) para reiniciar el simulador." alt="" coords="21,5,145,32"/>
+<area shape="poly" title=" " alt="" coords="235,119,202,83,159,46,138,35,137,30,162,42,206,79,240,119"/>
+<area shape="rect" href="simucinta_8c.html#aad0beffa2fb2300d71edaa844bfed1e2" title="Envia un CMD_ALIVE (0xF0) al simulador." alt="" coords="9,56,157,83"/>
+<area shape="poly" title=" " alt="" coords="217,125,160,97,131,86,130,81,162,92,222,123"/>
+<area shape="rect" href="simucinta_8c.html#a13a9c5b4a4fcc8c75d85dd6b639f7e3f" title="Envia CMD_SET_ARM (0x52) para mover uno o varios brazos." alt="" coords="16,107,150,133"/>
+<area shape="poly" title=" " alt="" coords="191,137,150,132,149,127,196,135"/>
+<area shape="rect" href="simucinta_8c.html#a9070d2b2887ad8ec67b72973f1b1f415" title="Envia CMD_SET_VELOCITY (0x54) para cambiar la velocidad de la cinta." alt="" coords="5,157,161,184"/>
+<area shape="poly" title=" " alt="" coords="191,156,162,162,160,157,196,153"/>
+<area shape="rect" href="simucinta_8c.html#abc4e1b092b0d2e0005206df1e2c2118f" title="Envia CMD_START (0x50) para solicitar inicio de la cinta." alt="" coords="24,208,142,235"/>
+<area shape="poly" title=" " alt="" coords="217,168,162,198,132,210,129,205,160,194,222,165"/>
+<area shape="rect" href="simucinta_8c.html#a842fa95060b0ba8f4ad0443e9ac8e1c0" title="Envia CMD_STOP (0x51) para pausar la cinta." alt="" coords="25,259,141,285"/>
+<area shape="poly" title=" " alt="" coords="240,170,206,212,162,249,139,261,137,256,159,244,202,208,235,173"/>
+</map>
+</div>
 
 </div>
 </div>

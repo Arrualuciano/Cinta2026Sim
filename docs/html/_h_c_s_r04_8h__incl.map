@@ -1,0 +1,5 @@
+<map id="HCSR04.h" name="HCSR04.h">
+<area shape="rect" id="Node000001" title="Driver para sensor ultrasonico HC&#45;SR04." alt="" coords="5,5,91,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="16,80,80,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,30,51,65,45,64,46,35"/>
+</map>

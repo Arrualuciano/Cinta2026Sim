@@ -1,0 +1,5 @@
+<map id="Comm_Init" name="Comm_Init">
+<area shape="rect" id="Node000001" title="Inicializa el modulo de comunicacion y el hardware UART." alt="" coords="5,5,91,32"/>
+<area shape="rect" id="Node000002" href="$_comm_8c.html#ab7be665dc1d0fbffa21b750006b48b74" title="Configura el periferico UART0 del ATmega." alt="" coords="139,5,260,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,16,126,18,120,19,91,21"/>
+</map>

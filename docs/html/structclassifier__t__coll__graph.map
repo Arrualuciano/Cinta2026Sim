@@ -1,0 +1,5 @@
+<map id="classifier_t" name="classifier_t">
+<area shape="rect" id="Node000001" title="Contexto del clasificador." alt="" coords="19,104,104,131"/>
+<area shape="rect" id="Node000002" href="$structclassifier__box__t.html" title="Representa una caja en transito en la cinta." alt="" coords="5,5,118,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,46,64,104,59,103,59,49"/>
+</map>

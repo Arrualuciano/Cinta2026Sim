@@ -1,0 +1,12 @@
+<map id="Comm.h" name="Comm.h">
+<area shape="rect" id="Node000001" title="Modulo de comunicacion serie con protocolo UNER." alt="" coords="79,5,150,32"/>
+<area shape="rect" id="Node000002" href="$_comm_8c.html" title="Implementacion del modulo de comunicacion serie con protocolo UNER." alt="" coords="5,80,77,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,46,56,81,52,78,92,41"/>
+<area shape="rect" id="Node000003" href="$main_8c.html" title="Aplicacion principal del clasificador de cajas en cinta transportadora." alt="" coords="84,155,144,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,46,117,155,112,154,112,49"/>
+<area shape="rect" id="Node000004" href="$simucinta_8h.html" title="Capa de abstraccion para el simulador de cinta transportadora." alt="" coords="152,80,240,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,40,184,79,179,80,139,45"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="173,116,130,156,127,152,168,118"/>
+<area shape="rect" id="Node000005" href="$simucinta_8c_source.html" title=" " alt="" coords="169,155,257,181"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="204,120,212,155,208,153,201,124"/>
+</map>
