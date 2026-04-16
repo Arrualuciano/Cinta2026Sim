@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['setactuator_0',['SetActuator',['../struct_actuator__t.html#a1f5feb734f82d3444740fe4ab82db2cd',1,'Actuator_t']]],
+  ['simucinta_2eh_1',['simucinta.h',['../simucinta_8h.html',1,'']]],
+  ['simucinta_5finit_2',['SimuCinta_Init',['../simucinta_8h.html#af5cefe6160ad5783812b2477f3d66fbd',1,'simucinta.c']]],
+  ['simucinta_5fir_5fcb_3',['simucinta_ir_cb',['../simucinta_8h.html#affd30c4fc5b0a2a8713fdc99a55a657a',1,'simucinta.h']]],
+  ['simucinta_5fnewbox_5fcb_4',['simucinta_newbox_cb',['../simucinta_8h.html#a1560e963a3f645eca0dc191e52b2c8c7',1,'simucinta.h']]],
+  ['simucinta_5foncmd_5',['SimuCinta_OnCmd',['../simucinta_8h.html#afa4cbdad48948083592cf897948435f4',1,'simucinta.c']]],
+  ['simucinta_5fprocess_6',['SimuCinta_Process',['../simucinta_8h.html#a6daeb00496414f236db974c7619bb4bc',1,'simucinta.c']]],
+  ['simucinta_5freset_7',['SimuCinta_Reset',['../simucinta_8h.html#ae57017b5474a9134310829e770c1cf8e',1,'simucinta.c']]],
+  ['simucinta_5fsendalive_8',['SimuCinta_SendAlive',['../simucinta_8h.html#aad0beffa2fb2300d71edaa844bfed1e2',1,'simucinta.c']]],
+  ['simucinta_5fsetarm_9',['SimuCinta_SetArm',['../simucinta_8h.html#ab1f9556fe99dd4d7fb2ea1a83e2f6ecb',1,'simucinta.c']]],
+  ['simucinta_5fsetvelocity_10',['SimuCinta_SetVelocity',['../simucinta_8h.html#a9070d2b2887ad8ec67b72973f1b1f415',1,'simucinta.c']]],
+  ['simucinta_5fstart_11',['SimuCinta_Start',['../simucinta_8h.html#abc4e1b092b0d2e0005206df1e2c2118f',1,'simucinta.c']]],
+  ['simucinta_5fstop_12',['SimuCinta_Stop',['../simucinta_8h.html#a842fa95060b0ba8f4ad0443e9ac8e1c0',1,'simucinta.c']]],
+  ['simucinta_5ft_13',['SimuCinta_t',['../struct_simu_cinta__t.html',1,'']]],
+  ['size_14',['size',['../struct_ring_buf__t.html#ae5dc6ffcd9b7605c7787791e40cc6bb0',1,'RingBuf_t']]],
+  ['stage_15',['stage',['../structclassifier__box__t.html#a598b6bfd7a954db2a08dce6c1c049c9c',1,'classifier_box_t']]],
+  ['state_16',['state',['../struct_actuator__t.html#a7b138acf2fe7916ac29f367701714636',1,'Actuator_t::state'],['../struct_h_c_s_r04___setting__t.html#a9bc9cf99d7ed9f0a31a7e2c7d2ffd454',1,'HCSR04_Setting_t::state']]]
+];

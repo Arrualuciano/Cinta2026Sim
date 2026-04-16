@@ -1,0 +1,690 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              HCSR04.o (__udivmodsi4)
+d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              Comm.o (__tablejump2__)
+d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              Comm.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+simu                0xe               main.o
+act2                0x8               main.o
+actuators           0x6               main.o
+act0                0x8               main.o
+classifier          0x46              main.o
+sensor              0x11              main.o
+act1                0x8               main.o
+comm                0x31              main.o
+time100ms           0x1               main.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 Actuator.o
+ .data          0x00000000        0x0 Actuator.o
+ .bss           0x00000000        0x0 Actuator.o
+ .text          0x00000000        0x0 Classifier.o
+ .data          0x00000000        0x0 Classifier.o
+ .bss           0x00000000        0x0 Classifier.o
+ .text          0x00000000        0x0 Comm.o
+ .data          0x00000000        0x0 Comm.o
+ .bss           0x00000000        0x0 Comm.o
+ .text          0x00000000        0x0 HCSR04.o
+ .data          0x00000000        0x0 HCSR04.o
+ .bss           0x00000000        0x0 HCSR04.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 simucinta.o
+ .data          0x00000000        0x0 simucinta.o
+ .bss           0x00000000        0x0 simucinta.o
+ .text.SimuCinta_Start
+                0x00000000       0x14 simucinta.o
+ .text.SimuCinta_Stop
+                0x00000000       0x14 simucinta.o
+ .text.SimuCinta_Reset
+                0x00000000       0x14 simucinta.o
+ .text.SimuCinta_SetVelocity
+                0x00000000       0x28 simucinta.o
+ .text          0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD Actuator.o
+LOAD Classifier.o
+LOAD Comm.o
+LOAD HCSR04.o
+LOAD main.o
+LOAD simucinta.o
+START GROUP
+LOAD d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xaaa
+ *(.vectors)
+ .vectors       0x00000000       0x68 D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.Comm_Process
+                0x00000068        0xe Comm.o
+ .progmem.gcc_sw_table.HCSR04_Process
+                0x00000076        0xe HCSR04.o
+                0x00000084                . = ALIGN (0x2)
+                0x00000084                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000084        0x0 linker stubs
+ *(.trampolines*)
+                0x00000084                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x00000084                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000084                __ctors_start = .
+ *(.ctors)
+                0x00000084                __ctors_end = .
+                0x00000084                __dtors_start = .
+ *(.dtors)
+                0x00000084                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000084        0x0 D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000084                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000084        0xc D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000090       0x10 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000090                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000a0        0x8 D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x000000a8        0x4 D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000a8                __vector_22
+                0x000000a8                __vector_1
+                0x000000a8                __vector_24
+                0x000000a8                __vector_12
+                0x000000a8                __bad_interrupt
+                0x000000a8                __vector_6
+                0x000000a8                __vector_3
+                0x000000a8                __vector_23
+                0x000000a8                __vector_25
+                0x000000a8                __vector_11
+                0x000000a8                __vector_13
+                0x000000a8                __vector_17
+                0x000000a8                __vector_19
+                0x000000a8                __vector_7
+                0x000000a8                __vector_5
+                0x000000a8                __vector_4
+                0x000000a8                __vector_9
+                0x000000a8                __vector_2
+                0x000000a8                __vector_21
+                0x000000a8                __vector_15
+                0x000000a8                __vector_8
+                0x000000a8                __vector_10
+                0x000000a8                __vector_16
+                0x000000a8                __vector_20
+                0x000000ac                . = ALIGN (0x2)
+ *(.text.*)
+ .text.Actuator_Init
+                0x000000ac       0x18 Actuator.o
+                0x000000ac                Actuator_Init
+ .text.Actuator_Trigger
+                0x000000c4       0x40 Actuator.o
+                0x000000c4                Actuator_Trigger
+ .text.Actuator_Process
+                0x00000104       0x76 Actuator.o
+                0x00000104                Actuator_Process
+ .text.removeAt
+                0x0000017a       0x4c Classifier.o
+ .text.Classifier_Init
+                0x000001c6       0x36 Classifier.o
+                0x000001c6                Classifier_Init
+ .text.Classifier_Reset
+                0x000001fc        0xa Classifier.o
+                0x000001fc                Classifier_Reset
+ .text.Classifier_NewBox
+                0x00000206       0x28 Classifier.o
+                0x00000206                Classifier_NewBox
+ .text.Classifier_OnSensor
+                0x0000022e       0x9e Classifier.o
+                0x0000022e                Classifier_OnSensor
+ .text.putTxByte
+                0x000002cc       0x20 Comm.o
+ .text.Comm_InitUART
+                0x000002ec       0x20 Comm.o
+                0x000002ec                Comm_InitUART
+ .text.Comm_Init
+                0x0000030c       0x34 Comm.o
+                0x0000030c                Comm_Init
+ .text.Comm_PutRxByte
+                0x00000340       0x20 Comm.o
+                0x00000340                Comm_PutRxByte
+ .text.Comm_Send
+                0x00000360       0xa2 Comm.o
+                0x00000360                Comm_Send
+ .text.Comm_Process
+                0x00000402      0x10c Comm.o
+                0x00000402                Comm_Process
+ .text.HCSR04_Init
+                0x0000050e       0x56 HCSR04.o
+                0x0000050e                HCSR04_Init
+ .text.HCSR04_Process
+                0x00000564      0x116 HCSR04.o
+                0x00000564                HCSR04_Process
+ .text.hw_trigger_write
+                0x0000067a       0x14 main.o
+                0x0000067a                hw_trigger_write
+ .text.hw_echo_read
+                0x0000068e        0xa main.o
+                0x0000068e                hw_echo_read
+ .text.hw_get_us
+                0x00000698       0x12 main.o
+                0x00000698                hw_get_us
+ .text.OnCommCmd
+                0x000006aa       0x2e main.o
+                0x000006aa                OnCommCmd
+ .text.hw_Act_Set
+                0x000006d8       0x26 main.o
+                0x000006d8                hw_Act_Set
+ .text.OnActuatorTrigger
+                0x000006fe       0x1e main.o
+                0x000006fe                OnActuatorTrigger
+ .text.OnNewBox
+                0x0000071c       0x30 main.o
+                0x0000071c                OnNewBox
+ .text.OnIRSensor
+                0x0000074c       0x14 main.o
+                0x0000074c                OnIRSensor
+ .text.__vector_14
+                0x00000760       0x24 main.o
+                0x00000760                __vector_14
+ .text.__vector_18
+                0x00000784       0x50 main.o
+                0x00000784                __vector_18
+ .text.InitTMR0
+                0x000007d4       0x16 main.o
+                0x000007d4                InitTMR0
+ .text.InitTMR1
+                0x000007ea        0xc main.o
+                0x000007ea                InitTMR1
+ .text.On2ms    0x000007f6       0x20 main.o
+                0x000007f6                On2ms
+ .text.main     0x00000816      0x11e main.o
+                0x00000816                main
+ .text.SimuCinta_Init
+                0x00000934       0x1c simucinta.o
+                0x00000934                SimuCinta_Init
+ .text.SimuCinta_SendAlive
+                0x00000950       0x14 simucinta.o
+                0x00000950                SimuCinta_SendAlive
+ .text.SimuCinta_SetArm
+                0x00000964       0x2c simucinta.o
+                0x00000964                SimuCinta_SetArm
+ .text.SimuCinta_OnCmd
+                0x00000990       0xae simucinta.o
+                0x00000990                SimuCinta_OnCmd
+ .text.SimuCinta_Process
+                0x00000a3e       0x18 simucinta.o
+                0x00000a3e                SimuCinta_Process
+ .text.libgcc.div
+                0x00000a56       0x44 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000a56                __udivmodsi4
+ .text.libgcc   0x00000a9a        0xc d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00000a9a                __tablejump2__
+                0x00000aa6                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000aa6        0x0 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00000aa6                _exit
+                0x00000aa6                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000aa6        0x4 d:/programas/microchipstudio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000aaa                _etext = .
+
+.data           0x00800100        0x0 load address 0x00000aaa
+                [!provide]                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800100                . = ALIGN (0x2)
+                0x00800100                _edata = .
+                [!provide]                PROVIDE (__data_end, .)
+
+.bss            0x00800100      0x1b6
+                0x00800100                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.bufTx     0x00800100       0x80 Comm.o
+ .bss.bufRx     0x00800180       0x80 Comm.o
+ .bss.cintaLista
+                0x00800200        0x1 main.o
+                0x00800200                cintaLista
+ *(COMMON)
+ COMMON         0x00800201       0xb5 main.o
+                0x00800201                simu
+                0x0080020f                act2
+                0x00800217                actuators
+                0x0080021d                act0
+                0x00800225                classifier
+                0x0080026b                sensor
+                0x0080027c                act1
+                0x00800284                comm
+                0x008002b5                time100ms
+                0x008002b6                PROVIDE (__bss_end, .)
+                0x00000aaa                __data_load_start = LOADADDR (.data)
+                0x00000aaa                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008002b6        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008002b6                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 Actuator.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 Classifier.o
+ .comment       0x00000030       0x31 Comm.o
+ .comment       0x00000030       0x31 HCSR04.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 simucinta.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1c8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 Actuator.o
+ .debug_aranges
+                0x00000030       0x40 Classifier.o
+ .debug_aranges
+                0x00000070       0x48 Comm.o
+ .debug_aranges
+                0x000000b8       0x28 HCSR04.o
+ .debug_aranges
+                0x000000e0       0x88 main.o
+ .debug_aranges
+                0x00000168       0x60 simucinta.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x2390
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4      0x1fe Actuator.o
+ .debug_info    0x000007f2      0x304 Classifier.o
+ .debug_info    0x00000af6      0x4df Comm.o
+ .debug_info    0x00000fd5      0x24f HCSR04.o
+ .debug_info    0x00001224      0xbd8 main.o
+ .debug_info    0x00001dfc      0x594 simucinta.o
+
+.debug_abbrev   0x00000000      0xe41
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x130 Actuator.o
+ .debug_abbrev  0x000006d2      0x156 Classifier.o
+ .debug_abbrev  0x00000828      0x1a2 Comm.o
+ .debug_abbrev  0x000009ca      0x116 HCSR04.o
+ .debug_abbrev  0x00000ae0      0x218 main.o
+ .debug_abbrev  0x00000cf8      0x149 simucinta.o
+
+.debug_line     0x00000000      0xed1
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x134 D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000134      0x180 Actuator.o
+ .debug_line    0x000002b4      0x1bc Classifier.o
+ .debug_line    0x00000470      0x31f Comm.o
+ .debug_line    0x0000078f      0x15e HCSR04.o
+ .debug_line    0x000008ed      0x3a6 main.o
+ .debug_line    0x00000c93      0x23e simucinta.o
+
+.debug_frame    0x00000000      0x41c
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x50 Actuator.o
+ .debug_frame   0x00000050       0x80 Classifier.o
+ .debug_frame   0x000000d0       0xa8 Comm.o
+ .debug_frame   0x00000178       0x54 HCSR04.o
+ .debug_frame   0x000001cc      0x16c main.o
+ .debug_frame   0x00000338       0xe4 simucinta.o
+
+.debug_str      0x00000000      0x95c
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 D:/Programas/MicrochipStudio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0x206 Actuator.o
+                                0x240 (size before relaxing)
+ .debug_str     0x0000040e       0xce Classifier.o
+                                0x239 (size before relaxing)
+ .debug_str     0x000004dc      0x146 Comm.o
+                                0x2be (size before relaxing)
+ .debug_str     0x00000622      0x104 HCSR04.o
+                                0x2a3 (size before relaxing)
+ .debug_str     0x00000726      0x1c0 main.o
+                                0x62d (size before relaxing)
+ .debug_str     0x000008e6       0x76 simucinta.o
+                                0x32d (size before relaxing)
+
+.debug_loc      0x00000000      0xf53
+ *(.debug_loc)
+ .debug_loc     0x00000000       0xe1 Actuator.o
+ .debug_loc     0x000000e1      0x1b5 Classifier.o
+ .debug_loc     0x00000296      0x2fb Comm.o
+ .debug_loc     0x00000591      0x1f4 HCSR04.o
+ .debug_loc     0x00000785      0x3b3 main.o
+ .debug_loc     0x00000b38      0x41b simucinta.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x198
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 Actuator.o
+ .debug_ranges  0x00000020       0x48 Classifier.o
+ .debug_ranges  0x00000068       0x38 Comm.o
+ .debug_ranges  0x000000a0       0x18 HCSR04.o
+ .debug_ranges  0x000000b8       0x78 main.o
+ .debug_ranges  0x00000130       0x68 simucinta.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Cinta2026Sim.elf elf32-avr)
+LOAD linker stubs
